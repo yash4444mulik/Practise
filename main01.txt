@@ -1,6 +1,6 @@
 this main file
 this is for practise purpose 
-this is fourth line 
-this is fifth line 
+this is my new line for practise  purpose of merging 
+this is my new line for practis 
 this is sixth line 
 this is seventh line 
