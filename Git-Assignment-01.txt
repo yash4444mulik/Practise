@@ -1,10 +1,7 @@
 Date:11 March 2025
 -------------------
 1. What does git add do?
-A) git add .
-B) git add -A
-C) git add --all
-D) All of the above
+
 --------------------
 2. Which command stages all modified and new files in the current directory?
 A) Deletes files from the repository
